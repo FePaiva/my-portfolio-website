@@ -78,6 +78,7 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
   width: 120px;
   border: 8px solid #2c2f3f;
+  background-color: rgb(158, 161, 171) ;
 }
 #header .profile h1 {
   font-size: 24px;
