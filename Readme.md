@@ -1,6 +1,6 @@
 <div align="center">
 <kbd>
-<img src="assets/img/FePaiva.png">
+<img src="assets/img/FePaiva.png" width=" 250 height="350" >
 </kbd>
 </div>
 
