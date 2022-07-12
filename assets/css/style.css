@@ -366,7 +366,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Akills
+# Skills
 --------------------------------------------------------------*/
 .skills .progress {
   height: 60px;
@@ -383,20 +383,29 @@ section {
   font-family: "Poppins", sans-serif;
   color: #050d18;
 }
-.skills .progress .skill .val {
+.skills .progress .skill {
+  text-align: center;
+  font-style: normal;
+  font-size:50px; 
+  /* margin: 5 0 5 250px; */
+
+}
+
+/* .skills .progress .skill .val {
   float: right;
   font-style: normal;
-}
-.skills .progress-bar-wrap {
+} */
+
+/* .skills .progress-bar-wrap {
   background: #dce8f8;
   height: 10px;
-}
-.skills .progress-bar {
+} */
+/* .skills .progress-bar {
   width: 1px;
   height: 10px;
   transition: 0.9s;
   background-color: #149ddd;
-}
+} */
 
 /*--------------------------------------------------------------
 # Resume
